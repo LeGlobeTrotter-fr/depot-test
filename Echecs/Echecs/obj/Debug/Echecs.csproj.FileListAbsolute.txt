@@ -1,0 +1,18 @@
+C:\Users\ebourdin\Downloads\Echecs\Echecs\bin\Debug\Echecs.exe.config
+C:\Users\ebourdin\Downloads\Echecs\Echecs\bin\Debug\Echecs.exe
+C:\Users\ebourdin\Downloads\Echecs\Echecs\bin\Debug\Echecs.pdb
+C:\Users\ebourdin\Downloads\Echecs\Echecs\obj\Debug\Echecs.csprojResolveAssemblyReference.cache
+C:\Users\ebourdin\Downloads\Echecs\Echecs\obj\Debug\Echecs.Form1.resources
+C:\Users\ebourdin\Downloads\Echecs\Echecs\obj\Debug\Echecs.Properties.Resources.resources
+C:\Users\ebourdin\Downloads\Echecs\Echecs\obj\Debug\Echecs.csproj.GenerateResource.Cache
+C:\Users\ebourdin\Downloads\Echecs\Echecs\obj\Debug\Echecs.exe
+C:\Users\ebourdin\Downloads\Echecs\Echecs\obj\Debug\Echecs.pdb
+F:\Travail en classe [BTS SIO 1]\Programme C#\Echecs\Echecs\bin\Debug\Echecs.exe.config
+F:\Travail en classe [BTS SIO 1]\Programme C#\Echecs\Echecs\obj\Debug\Echecs.exe
+F:\Travail en classe [BTS SIO 1]\Programme C#\Echecs\Echecs\obj\Debug\Echecs.pdb
+F:\Travail en classe [BTS SIO 1]\Programme C#\Echecs\Echecs\bin\Debug\Echecs.exe
+F:\Travail en classe [BTS SIO 1]\Programme C#\Echecs\Echecs\bin\Debug\Echecs.pdb
+F:\Travail en classe [BTS SIO 1]\Programme C#\Echecs\Echecs\obj\Debug\Echecs.csprojResolveAssemblyReference.cache
+F:\Travail en classe [BTS SIO 1]\Programme C#\Echecs\Echecs\obj\Debug\Echecs.Form1.resources
+F:\Travail en classe [BTS SIO 1]\Programme C#\Echecs\Echecs\obj\Debug\Echecs.Properties.Resources.resources
+F:\Travail en classe [BTS SIO 1]\Programme C#\Echecs\Echecs\obj\Debug\Echecs.csproj.GenerateResource.Cache
