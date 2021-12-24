@@ -1,6 +1,8 @@
 # depot-test
 Depot de test pour formation H3.
 
+**Brache 2**
+
 ## Les commandes UNIX
 
  - `cd` : Permet de changer de répertoire courant
@@ -18,7 +20,7 @@ Depot de test pour formation H3.
  ### Configuration
  
  git config --global user.name "LeGlobeTrotter-fr"
+ 
  git config --global user.email etiblob008@gmail.com
 
-### Test de la rédaction en Markdown
-Ficher text permettant de tester la rédaction en Markdown
+### Texte édité dans la branche 2
